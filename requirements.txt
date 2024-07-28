@@ -1,0 +1,4 @@
+fastapi
+strawberry-graphql
+dishka
+uvicorn
